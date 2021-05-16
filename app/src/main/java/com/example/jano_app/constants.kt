@@ -101,7 +101,7 @@ object Constants{
             optionTwo = "Slovakia",
             optionThree = "India",
             optionFour = "Australia",
-            correctAnswer = 1
+            correctAnswer = 3
         )
         otazkaList.add(otazka8)
 
