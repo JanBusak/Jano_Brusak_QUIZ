@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jano_APP</string>
+    <string name="vitajte">Vitajte</string>
+    <string name="zadajte_meno">Zadajte meno</string>
+    <string name="meno">Meno</string>
+    <string name="start">Start</string>
+</resources>
